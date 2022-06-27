@@ -10,7 +10,7 @@
                                                                                            
 ```
 
-:bird: [@skepteis](https://twitter.com/skepteis) &#183; :globe_with_meridians: [danielprobst.science](https://danielprobst.science)
+:bird: [@skepteis](https://twitter.com/skepteis) &#183; :earth_africa: [danielprobst.science](https://danielprobst.science) &#183; :scroll: [Google Scholar](https://scholar.google.com/citations?user=TNNgroIAAAAJ&hl=en)
 
 <!--
 **daenuprobst/daenuprobst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
