@@ -1,11 +1,10 @@
 ```
-                                                                __ 
- _____ _____ __    __    _____    _ _ _ _____ _____ __    ____ |  |
-|  |  |   __|  |  |  |  |     |  | | | |     | __  |  |  |    \|  |
-|     |   __|  |__|  |__|  |  |  | | | |  |  |    -|  |__|  |  |__|
-|__|__|_____|_____|_____|_____|  |_____|_____|__|__|_____|____/|__|
-                                                                          
-                                                                                           
+ _   _      _ _        __        __         _     _ _ 
+| | | | ___| | | ___   \ \      / /__  _ __| | __| | |
+| |_| |/ _ \ | |/ _ \   \ \ /\ / / _ \| '__| |/ _` | |
+|  _  |  __/ | | (_) |   \ V  V / (_) | |  | | (_| |_|
+|_| |_|\___|_|_|\___/     \_/\_/ \___/|_|  |_|\__,_(_)                                                                                
+
 ```
 
 :bird: [@skepteis](https://twitter.com/skepteis) &nbsp;&nbsp;&#183;&nbsp;&nbsp; :earth_africa: [danielprobst.science](https://danielprobst.science) &nbsp;&nbsp;&#183;&nbsp;&nbsp; :scroll: [Google Scholar](https://scholar.google.com/citations?user=TNNgroIAAAAJ&hl=en)
